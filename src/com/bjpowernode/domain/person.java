@@ -5,5 +5,7 @@ package com.bjpowernode.domain;
  * 2019.12.14
  */
 public class person {
-    public String id;
+    private String id;
+
+    private String name;
 }
